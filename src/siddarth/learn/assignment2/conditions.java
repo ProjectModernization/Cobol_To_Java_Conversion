@@ -1,4 +1,4 @@
-package com.learn.assignment2;
+package siddarth.learn.assignment2;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

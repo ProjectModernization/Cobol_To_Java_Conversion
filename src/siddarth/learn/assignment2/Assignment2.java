@@ -1,4 +1,4 @@
-package com.learn.assignment2;
+package siddarth.learn.assignment2;
 
 public class Assignment2 {
 

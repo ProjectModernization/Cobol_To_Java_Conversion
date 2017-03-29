@@ -1,4 +1,4 @@
-package com.learn.TestCases.Junit;
+package siddarth.learn.TestCases.Junit;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

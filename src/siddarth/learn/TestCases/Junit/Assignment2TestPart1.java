@@ -1,13 +1,13 @@
-package com.learn.TestCases.Junit;
+package siddarth.learn.TestCases.Junit;
 
 import static org.junit.Assert.*;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.learn.assignment2.Iterif;
-import com.learn.assignment2.Perform1;
-import com.learn.assignment2.conditions;
+import siddarth.learn.assignment2.Iterif;
+import siddarth.learn.assignment2.Perform1;
+import siddarth.learn.assignment2.conditions;
 
 public class Assignment2TestPart1 {
 	@Test

@@ -1,4 +1,4 @@
-package com.learn.assignment1;
+package siddarth.learn.assignment1;
 
 import java.util.Scanner;
 
