@@ -13,7 +13,7 @@ public class Assignment1Test {
 
 	@Test
 	public void StudentDetailJunitTesting() {
-		//SIDDARTMANOJREDVR1992M
+		//This is the input for Junit_TestCase Testing SIDDARTMANOJREDVR1992M
 		StudentsInfo stud = new StudentsInfo();
 		stud.StudentsInfo();
 
